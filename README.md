@@ -1,1 +1,1 @@
-# coins-watch
+# feeds-watcher
